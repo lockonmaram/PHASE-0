@@ -1,0 +1,12 @@
+1.GET car
+2.GET velocity(80km/h)
+3.WHILE car ascend
+    IF road = 0-14 degree
+      keep ascending
+    ELSE IF road = 15-29 degree
+      velocity -= 10
+    ELSE IF road = 30-44 degree
+      velocity -= 15
+    ELSE IF road = 45-50 degree
+      velocity -= 25
+4.DISPLAY velocity

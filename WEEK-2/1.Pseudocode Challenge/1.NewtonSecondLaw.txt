@@ -1,0 +1,4 @@
+1. GET mass of car (600 kg)
+2. GET acceleration of car (2 m/s²)
+3. COMPUTE total force of car as mass times acceleration (600*2)
+4. Display total force of car

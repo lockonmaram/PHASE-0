@@ -1,0 +1,8 @@
+1. GET number of student (40)
+2. WHILE student > 0
+	DECREMENT (walk to) student
+	check nail
+		IF nail = long
+			punish
+		ELSE 
+			praise

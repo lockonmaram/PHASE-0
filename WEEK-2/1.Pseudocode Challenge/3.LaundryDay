@@ -1,0 +1,9 @@
+1. GET laundry in basket amount (20)
+2. GET washing machine
+3. GET laundry in machine amount (0)
+4. WHILE laundry amount > 0
+	DECREMENT (take) laundry amount
+	INCREMENT (put into) laundry in machine amount
+   ENDWHILE
+5. INIT washing machine
+6. Display laundry in machine amount

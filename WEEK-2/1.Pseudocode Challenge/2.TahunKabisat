@@ -1,0 +1,8 @@
+1. GET year
+2. IF year % 4
+	IF year % 100
+		IF year % 400
+			it's a leap year
+		ELSE it's not a leap year
+	ELSE it's a leap year
+   ELSE it's not a leap year
